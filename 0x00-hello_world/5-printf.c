@@ -1,4 +1,4 @@
-
+#!/bin/bash
 #include <stdio.h>
 /**
  * main - The function print out a text
