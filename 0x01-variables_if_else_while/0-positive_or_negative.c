@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+
 
 /**
- * main - The function generates random numbers and determines whether they are positive or negative
+ * main - The function generates random numbers
  *
  * Return: (0)
  */
