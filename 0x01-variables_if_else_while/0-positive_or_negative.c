@@ -19,13 +19,13 @@ n = rand() - RAND_MAX / 2;
 
 /* Determing the number state*/
 if (n > 0)
-{printf("%d\tis positive", n);
+{printf("%d is positive\n", n);
 }
 if (n == 0)
-{printf("%d\tis zero", n);
+{printf("%d is zero\n", n);
 }
 if (n < 0)
-{printf("%d\tis negative", n);
+{printf("%d is negative\n", n);
 }
 
 /* your code goes there */
