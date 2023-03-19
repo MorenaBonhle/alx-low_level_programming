@@ -2,7 +2,13 @@
 #include <time.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - The function generates random numbers and determines whether they are positive or negative
+ *
+ * Return: (0)
+ */
+
+
 int main(void)
 {
 int n;
