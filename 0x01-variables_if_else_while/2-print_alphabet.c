@@ -18,7 +18,7 @@ for(ch = 'a'; ch < 'z'; ch++)
 {
 putchar(ch);
 }
-putchar("\n");
+putchar('\n');
 
 /* your code goes there */
 return (0);
