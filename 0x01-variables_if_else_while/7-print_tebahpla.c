@@ -10,11 +10,11 @@
 
 int main(void)
 {
-char ch;
+char ch[26] = "abcdefghijklmnopqrstuvwxy";
 
-for (ch = 'z'; ch <= 'a'; ch++)
+for (i = 26; i <= 26; ch--)
 {
-putchar(ch);
+putchar(ch[i]);
 }
 putchar('\n');
 
