@@ -12,7 +12,7 @@ int ch;
 
 for (ch = 0; ch <= 9; ch++)
 {
-putchar("%d", ch);
+putchar("%c", ch);
 }
 
 putchar('\n');
