@@ -11,6 +11,7 @@
 int main(void)
 {
 char ch[26] = "abcdefghijklmnopqrstuvwxy";
+int i;
 
 for (i = 26; i <= 26; ch--)
 {
