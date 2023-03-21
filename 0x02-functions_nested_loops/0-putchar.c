@@ -6,11 +6,10 @@
  * Return: (0)
  */
 
-int main( void )
+int main(void)
 {
 char words[] = "_putchar";
 int i;
-    
 for (i = 0; i < 9; i++)
 {
 if (words[i] == '\0')
