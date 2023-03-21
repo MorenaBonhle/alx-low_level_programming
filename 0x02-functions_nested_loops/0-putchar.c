@@ -8,18 +8,15 @@
 
 int main(void)
 {
-char words[] = "_putchar";
-int i;
-for (i = 0; i < 9; i++)
-{
-if (words[i] == '\0')
-{
-putchar('\n');
-break;
-}
-else
-putchar(words[i]);
-}
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar("\n");
 
 /* your code goes there */
 return (0);
